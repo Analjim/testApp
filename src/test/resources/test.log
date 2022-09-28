@@ -1,0 +1,621 @@
+2022-08-21 17:51:57,755 ERROR [Accruent Tests] - Homepage failed to open!
+2022-08-21 18:19:57,285 ERROR [Accruent Tests] - Homepage failed to open!
+2022-08-21 18:20:45,865 ERROR [Accruent Tests] - Homepage failed to open!
+2022-08-21 18:28:24,707 ERROR [Accruent Tests] - Homepage failed to open!
+2022-08-21 19:10:21,383 ERROR [Accruent Tests] - Homepage failed to open!
+2022-08-21 19:11:05,565 ERROR [Accruent Tests] - Homepage failed to open!
+2022-08-21 19:11:05,830 INFO [Accruent Tests] - tests.Home.selectLanguage(), browser = CH
+2022-08-21 19:12:47,978 ERROR [Accruent Tests] - Homepage failed to open!
+2022-08-21 19:12:48,211 INFO [Accruent Tests] - tests.Home.selectLanguage(), browser = CH
+2022-09-26 15:25:47,851 ERROR [Accruent Tests] - Homepage failed to open!
+2022-09-26 15:37:05,177 ERROR [Accruent Tests] - Homepage failed to open!
+2022-09-26 17:48:22,982 ERROR [Accruent Tests] - Homepage failed to open!
+2022-09-26 17:56:58,074 ERROR [Accruent Tests] - Homepage failed to open!
+2022-09-26 19:24:44,881 INFO [Tests] - tests.Home.verifyHomepageIsLoaded(), browser = CH
+2022-09-26 19:24:50,944 INFO [Tests] - Homepage has loaded.
+2022-09-26 21:36:02,727 INFO [Tests] - tests.Home.verifyHomepageIsLoaded(), browser = CH
+2022-09-26 21:36:08,290 INFO [Tests] - Homepage has loaded.
+2022-09-26 21:41:40,185 INFO [Tests] - tests.Home.verifyHomepageIsLoaded(), browser = CH
+2022-09-26 21:41:45,585 INFO [Tests] - Homepage has loaded.
+2022-09-26 21:50:52,498 INFO [Tests] - tests.Home.verifyHomepageIsLoaded(), browser = CH
+2022-09-26 21:50:57,100 INFO [Tests] - Homepage has loaded.
+2022-09-26 21:52:04,922 INFO [Tests] - tests.Home.verifyHomepageIsLoaded(), browser = CH
+2022-09-26 21:52:09,253 INFO [Tests] - Homepage has loaded.
+2022-09-26 21:57:42,371 INFO [Tests] - tests.Home.verifyHomepageIsLoaded(), browser = CH
+2022-09-26 21:57:47,577 INFO [Tests] - Homepage has loaded.
+2022-09-26 22:00:53,157 INFO [Tests] - tests.Home.verifyHomepageIsLoaded(), browser = CH
+2022-09-26 22:00:57,443 INFO [Tests] - Homepage has loaded.
+2022-09-26 22:17:19,341 INFO [Tests] - tests.Home.verifyHomepageIsLoaded(), browser = CH
+2022-09-26 22:17:23,928 INFO [Tests] - Homepage has loaded.
+2022-09-26 22:19:02,743 INFO [Tests] - tests.Home.verifyHomepageIsLoaded(), browser = CH
+2022-09-26 22:19:07,759 INFO [Tests] - Homepage has loaded.
+2022-09-26 22:20:55,739 INFO [Tests] - tests.Home.verifyHomepageIsLoaded(), browser = CH
+2022-09-26 22:21:00,050 INFO [Tests] - Homepage has loaded.
+2022-09-26 22:41:07,911 INFO [Tests] - Homepage has loaded.
+2022-09-26 22:41:07,980 INFO [Tests] - tests.Home.registerSuccessfully(), browser = CH
+2022-09-26 22:41:18,086 ERROR [Tests] - tests.Home.registerSuccessfully() failed
+2022-09-26 22:41:18,380 INFO [Tests] - Thread id that failed = 31
+2022-09-26 22:41:18,402 INFO [Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_registerSuccessfully_9_26_104118PM.png
+2022-09-26 22:41:51,737 INFO [Tests] - Homepage has loaded.
+2022-09-26 22:41:51,799 INFO [Tests] - tests.Home.registerSuccessfully(), browser = CH
+2022-09-26 22:42:01,901 ERROR [Tests] - tests.Home.registerSuccessfully() failed
+2022-09-26 22:42:02,142 INFO [Tests] - Thread id that failed = 32
+2022-09-26 22:42:02,162 INFO [Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_registerSuccessfully_9_26_104201PM.png
+2022-09-26 22:43:29,890 INFO [Tests] - Homepage has loaded.
+2022-09-26 22:43:29,968 INFO [Tests] - tests.Home.registerSuccessfully(), browser = CH
+2022-09-26 22:43:30,378 INFO [Tests] - Register page has loaded.
+2022-09-26 22:45:51,019 INFO [Tests] - Homepage has loaded.
+2022-09-26 22:45:51,087 INFO [Tests] - tests.Home.registerSuccessfully(), browser = CH
+2022-09-26 22:45:51,097 ERROR [Tests] - tests.Home.registerSuccessfully() failed
+2022-09-26 22:45:51,351 INFO [Tests] - Thread id that failed = 32
+2022-09-26 22:45:51,367 INFO [Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_registerSuccessfully_9_26_104551PM.png
+2022-09-26 22:47:20,493 INFO [Tests] - Homepage has loaded.
+2022-09-26 22:47:20,571 INFO [Tests] - tests.Home.registerSuccessfully(), browser = CH
+2022-09-26 22:47:22,034 INFO [Tests] - Register page has loaded.
+2022-09-26 22:47:55,382 INFO [Tests] - Homepage has loaded.
+2022-09-26 22:47:55,463 INFO [Tests] - tests.Home.registerSuccessfully(), browser = CH
+2022-09-26 22:47:55,866 INFO [Tests] - Register page has loaded.
+2022-09-26 22:48:35,926 INFO [Tests] - Homepage has loaded.
+2022-09-26 22:48:35,998 INFO [Tests] - tests.Home.registerSuccessfully(), browser = CH
+2022-09-26 22:48:36,466 INFO [Tests] - Register page has loaded.
+2022-09-27 11:20:51,685 INFO [Tests] - Homepage has loaded.
+2022-09-27 11:20:51,772 INFO [Tests] - tests.Home.registerSuccessfully(), browser = CH
+2022-09-27 11:20:52,257 INFO [Tests] - Register page has loaded.
+2022-09-27 11:20:52,268 INFO [Tests] - tests.Register.RegisterPageOpened(), browser = CH
+2022-09-27 11:20:52,278 ERROR [Tests] - tests.Register.RegisterPageOpened() failed
+2022-09-27 11:20:52,483 INFO [Tests] - Thread id that failed = 33
+2022-09-27 11:20:52,504 INFO [Tests] - Screenshot saved as: C:\TestProject\appTestnullRegister_RegisterPageOpened_9_27_112052AM.png
+2022-09-27 11:20:52,506 INFO [Tests] - tests.Register.registerSuccessfully(), browser = CH
+2022-09-27 11:20:52,508 ERROR [Tests] - tests.Register.registerSuccessfully() failed
+2022-09-27 11:20:52,698 INFO [Tests] - Thread id that failed = 33
+2022-09-27 11:20:52,704 INFO [Tests] - Screenshot saved as: C:\TestProject\appTestnullRegister_registerSuccessfully_9_27_112052AM.png
+2022-09-27 11:24:06,450 INFO [Tests] - Homepage has loaded.
+2022-09-27 11:24:06,522 INFO [Tests] - tests.Home.registerSuccessfully(), browser = CH
+2022-09-27 11:24:06,943 INFO [Tests] - Register page has loaded.
+2022-09-27 11:24:06,961 INFO [Tests] - tests.Register.RegisterPageOpened(), browser = CH
+2022-09-27 11:24:19,727 ERROR [Tests] - Register page failed to open!
+2022-09-27 11:24:24,903 ERROR [Tests] - tests.Register.RegisterPageOpened() failed
+2022-09-27 11:25:10,970 INFO [Tests] - tests.Register.RegisterPageOpened(), browser = CH
+2022-09-27 11:25:25,467 ERROR [Tests] - Register page failed to open!
+2022-09-27 11:25:35,529 ERROR [Tests] - tests.Register.RegisterPageOpened() failed
+2022-09-27 11:25:35,835 INFO [Tests] - Thread id that failed = 19
+2022-09-27 11:25:35,854 INFO [Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Register_RegisterPageOpened_9_27_112535AM.png
+2022-09-27 11:25:35,858 INFO [Tests] - tests.Register.registerSuccessfully(), browser = CH
+2022-09-27 11:25:35,861 ERROR [Tests] - tests.Register.registerSuccessfully() failed
+2022-09-27 11:25:36,196 INFO [Tests] - Thread id that failed = 19
+2022-09-27 11:25:36,200 INFO [Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Register_registerSuccessfully_9_27_112535AM.png
+2022-09-27 11:28:56,832 INFO [Tests] - tests.Register.RegisterPageOpened(), browser = CH
+2022-09-27 11:29:11,250 ERROR [Tests] - Register page failed to open!
+2022-09-27 11:29:21,320 ERROR [Tests] - tests.Register.RegisterPageOpened() failed
+2022-09-27 11:29:21,630 INFO [Tests] - Thread id that failed = 19
+2022-09-27 11:29:21,644 INFO [Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Register_RegisterPageOpened_9_27_112921AM.png
+2022-09-27 11:29:21,648 INFO [Tests] - tests.Register.registerSuccessfully(), browser = CH
+2022-09-27 11:29:21,651 ERROR [Tests] - tests.Register.registerSuccessfully() failed
+2022-09-27 11:29:21,916 INFO [Tests] - Thread id that failed = 19
+2022-09-27 11:29:21,920 INFO [Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Register_registerSuccessfully_9_27_112921AM.png
+2022-09-27 11:30:32,527 INFO [Tests] - tests.Register.RegisterPageOpened(), browser = CH
+2022-09-27 11:30:47,081 ERROR [Tests] - Register page failed to open!
+2022-09-27 11:30:57,137 ERROR [Tests] - tests.Register.RegisterPageOpened() failed
+2022-09-27 11:30:57,387 INFO [Tests] - Thread id that failed = 17
+2022-09-27 11:30:57,403 INFO [Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Register_RegisterPageOpened_9_27_113057AM.png
+2022-09-27 11:31:36,788 INFO [Tests] - tests.Register.RegisterPageOpened(), browser = CH
+2022-09-27 11:31:51,296 ERROR [Tests] - Register page failed to open!
+2022-09-27 11:32:01,348 ERROR [Tests] - tests.Register.RegisterPageOpened() failed
+2022-09-27 11:32:01,619 INFO [Tests] - Thread id that failed = 17
+2022-09-27 11:32:01,639 INFO [Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Register_RegisterPageOpened_9_27_113201AM.png
+2022-09-27 11:33:33,519 INFO [Tests] - tests.Register.RegisterPageOpened(), browser = CH
+2022-09-27 11:33:48,212 ERROR [Tests] - Register page failed to open!
+2022-09-27 11:33:58,289 ERROR [Tests] - tests.Register.RegisterPageOpened() failed
+2022-09-27 11:33:58,562 INFO [Tests] - Thread id that failed = 17
+2022-09-27 11:33:58,575 INFO [Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Register_RegisterPageOpened_9_27_113358AM.png
+2022-09-27 11:35:17,537 INFO [Tests] - tests.Register.RegisterPageOpened(), browser = CH
+2022-09-27 11:35:31,226 ERROR [Tests] - Register page failed to open!
+2022-09-27 11:35:41,287 ERROR [Tests] - tests.Register.RegisterPageOpened() failed
+2022-09-27 11:35:41,579 INFO [Tests] - Thread id that failed = 17
+2022-09-27 11:35:41,594 INFO [Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Register_RegisterPageOpened_9_27_113541AM.png
+2022-09-27 11:37:13,312 INFO [Tests] - tests.Register.RegisterPageOpened(), browser = CH
+2022-09-27 11:37:27,482 ERROR [Tests] - Register page failed to open!
+2022-09-27 11:37:37,524 ERROR [Tests] - tests.Register.RegisterPageOpened() failed
+2022-09-27 11:37:37,916 INFO [Tests] - Thread id that failed = 1
+2022-09-27 11:37:37,939 INFO [Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Register_RegisterPageOpened_9_27_113737AM.png
+2022-09-27 11:38:03,303 INFO [Tests] - Homepage has loaded.
+2022-09-27 11:38:03,369 INFO [Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-27 11:38:03,814 INFO [Tests] - Register page has loaded.
+2022-09-27 11:38:03,834 INFO [Tests] - tests.Register.RegisterPageOpened(), browser = CH
+2022-09-27 11:38:16,428 ERROR [Tests] - Register page failed to open!
+2022-09-27 11:38:26,501 ERROR [Tests] - tests.Register.RegisterPageOpened() failed
+2022-09-27 11:38:26,771 INFO [Tests] - Thread id that failed = 1
+2022-09-27 11:38:26,792 INFO [Tests] - Screenshot saved as: C:\TestProject\appTestnullRegister_RegisterPageOpened_9_27_113826AM.png
+2022-09-27 13:30:37,958 INFO [Tests] - Homepage has loaded.
+2022-09-27 13:30:38,081 INFO [Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-27 13:30:38,601 INFO [Tests] - Register page has loaded.
+2022-09-27 13:30:38,620 INFO [Tests] - tests.Register.RegisterPageOpened(), browser = CH
+2022-09-27 13:30:49,746 ERROR [Tests] - tests.Register.RegisterPageOpened() failed
+2022-09-27 13:32:28,532 INFO [Tests] - Homepage has loaded.
+2022-09-27 13:32:28,660 INFO [Tests] - tests.Register.RegisterPageOpened(), browser = CH
+2022-09-27 13:32:38,375 ERROR [Tests] - tests.Register.RegisterPageOpened() failed
+2022-09-27 20:55:01,279 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-27 20:55:01,405 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-27 20:55:01,944 INFO [Accruent Tests] - Register page has loaded.
+2022-09-27 20:55:01,964 ERROR [Accruent Tests] - tests.Home.navigateToRegister() failed
+2022-09-27 20:55:02,217 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-27 20:55:02,251 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_navigateToRegister_9_27_085501PM.png
+2022-09-27 20:56:59,863 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-27 20:56:59,986 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-27 20:57:00,519 INFO [Accruent Tests] - Register page has loaded.
+2022-09-27 20:57:00,537 ERROR [Accruent Tests] - tests.Home.navigateToRegister() failed
+2022-09-27 20:57:00,781 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-27 20:57:00,809 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_navigateToRegister_9_27_085700PM.png
+2022-09-27 21:00:26,559 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-27 21:00:26,679 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-27 21:00:27,239 INFO [Accruent Tests] - Register page has loaded.
+2022-09-27 21:00:29,275 ERROR [Accruent Tests] - tests.Home.navigateToRegister() failed
+2022-09-27 21:00:29,562 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-27 21:00:29,590 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_navigateToRegister_9_27_090029PM.png
+2022-09-27 21:01:56,239 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-27 21:01:56,332 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-27 21:01:56,805 INFO [Accruent Tests] - Register page has loaded.
+2022-09-27 21:32:44,393 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-27 21:32:44,465 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-27 21:32:45,462 INFO [Accruent Tests] - Register page has loaded.
+2022-09-27 21:32:45,475 INFO [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields(), browser = CH
+2022-09-27 21:32:59,248 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-27 21:32:59,275 ERROR [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields() failed
+2022-09-27 21:32:59,473 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-27 21:32:59,492 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_verifyErrorsForSpacesInRequiredFields_9_27_093259PM.png
+2022-09-27 21:57:16,873 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-27 21:57:16,945 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-27 21:57:17,910 INFO [Accruent Tests] - Register page has loaded.
+2022-09-27 21:57:17,923 INFO [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields(), browser = CH
+2022-09-27 21:57:41,266 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-27 21:57:41,290 ERROR [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields() failed
+2022-09-27 21:57:41,620 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-27 21:57:41,647 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_verifyErrorsForSpacesInRequiredFields_9_27_095741PM.png
+2022-09-27 21:57:41,665 INFO [Accruent Tests] - tests.Home.verifyErrorsRequiredFields(), browser = CH
+2022-09-27 21:58:04,266 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-27 21:58:04,269 ERROR [Accruent Tests] - tests.Home.verifyErrorsRequiredFields() failed
+2022-09-27 21:58:04,573 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-27 21:58:04,580 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_verifyErrorsRequiredFields_9_27_095804PM.png
+2022-09-27 21:58:37,932 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-27 21:58:37,997 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-27 21:58:39,029 INFO [Accruent Tests] - Register page has loaded.
+2022-09-27 21:58:39,042 INFO [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields(), browser = CH
+2022-09-27 21:59:02,291 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-27 21:59:02,312 ERROR [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields() failed
+2022-09-27 21:59:02,661 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-27 21:59:02,680 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_verifyErrorsForSpacesInRequiredFields_9_27_095902PM.png
+2022-09-27 21:59:02,698 INFO [Accruent Tests] - tests.Home.verifyErrorsRequiredFields(), browser = CH
+2022-09-27 21:59:25,182 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-27 21:59:25,185 ERROR [Accruent Tests] - tests.Home.verifyErrorsRequiredFields() failed
+2022-09-27 21:59:25,493 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-27 21:59:25,497 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_verifyErrorsRequiredFields_9_27_095925PM.png
+2022-09-27 22:01:33,622 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-27 22:01:33,693 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-27 22:01:34,647 INFO [Accruent Tests] - Register page has loaded.
+2022-09-27 22:01:34,659 INFO [Accruent Tests] - tests.Home.verifyRequiredFieldsErrorMessages(), browser = CH
+2022-09-27 22:01:37,497 INFO [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields(), browser = CH
+2022-09-27 22:02:00,838 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-27 22:02:00,861 ERROR [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields() failed
+2022-09-27 22:02:01,066 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-27 22:02:01,084 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_verifyErrorsForSpacesInRequiredFields_9_27_100200PM.png
+2022-09-28 00:31:56,555 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 00:31:56,631 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-28 00:31:57,621 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 00:31:57,638 INFO [Accruent Tests] - tests.Home.verifyRequiredFieldsErrorMessages(), browser = CH
+2022-09-28 00:32:00,421 INFO [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields(), browser = CH
+2022-09-28 00:32:23,679 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-28 00:32:23,704 ERROR [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields() failed
+2022-09-28 00:32:23,951 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 00:32:23,981 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_verifyErrorsForSpacesInRequiredFields_9_28_123223AM.png
+2022-09-28 00:32:23,985 INFO [Accruent Tests] - tests.Home.passwordConfirmationNotMatching(), browser = CH
+2022-09-28 00:33:09,250 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 00:33:09,327 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-28 00:33:10,285 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 00:33:10,301 INFO [Accruent Tests] - tests.Home.verifyRequiredFieldsErrorMessages(), browser = CH
+2022-09-28 00:33:13,118 INFO [Accruent Tests] - tests.Home.passwordConfirmationNotMatching(), browser = CH
+2022-09-28 00:33:16,498 INFO [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields(), browser = CH
+2022-09-28 00:33:39,732 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-28 00:33:39,763 ERROR [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields() failed
+2022-09-28 00:33:40,026 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 00:33:40,054 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_verifyErrorsForSpacesInRequiredFields_9_28_123339AM.png
+2022-09-28 00:38:43,580 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 00:38:43,667 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-28 00:38:44,620 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 00:38:44,633 INFO [Accruent Tests] - tests.Home.verifyRequiredFieldsErrorMessages(), browser = CH
+2022-09-28 00:38:48,130 INFO [Accruent Tests] - tests.Home.passwordConfirmationNotMatching(), browser = CH
+2022-09-28 00:38:52,100 INFO [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields(), browser = CH
+2022-09-28 00:39:15,906 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-28 00:39:15,933 ERROR [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields() failed
+2022-09-28 00:39:16,223 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 00:39:16,240 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_verifyErrorsForSpacesInRequiredFields_9_28_123915AM.png
+2022-09-28 00:39:32,310 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 00:39:32,396 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-28 00:39:33,374 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 00:39:33,389 INFO [Accruent Tests] - tests.Home.verifyRequiredFieldsErrorMessages(), browser = CH
+2022-09-28 00:39:36,914 INFO [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields(), browser = CH
+2022-09-28 00:40:01,086 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-28 00:40:01,103 ERROR [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields() failed
+2022-09-28 00:40:01,288 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 00:40:01,307 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_verifyErrorsForSpacesInRequiredFields_9_28_124001AM.png
+2022-09-28 00:40:01,309 INFO [Accruent Tests] - tests.Home.passwordConfirmationNotMatching(), browser = CH
+2022-09-28 00:51:17,319 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 00:51:17,400 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-28 00:51:18,336 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 00:51:18,351 INFO [Accruent Tests] - tests.Home.verifyRequiredFieldsErrorMessages(), browser = CH
+2022-09-28 00:51:21,770 INFO [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields(), browser = CH
+2022-09-28 00:51:36,113 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-28 00:51:36,144 ERROR [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields() failed
+2022-09-28 00:51:36,351 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 00:51:36,367 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_verifyErrorsForSpacesInRequiredFields_9_28_125136AM.png
+2022-09-28 00:51:36,368 INFO [Accruent Tests] - tests.Home.passwordConfirmationNotMatching(), browser = CH
+2022-09-28 00:51:46,405 ERROR [Accruent Tests] - tests.Home.passwordConfirmationNotMatching() failed
+2022-09-28 00:51:46,604 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 00:51:46,609 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_passwordConfirmationNotMatching_9_28_125146AM.png
+2022-09-28 00:51:46,610 INFO [Accruent Tests] - tests.Home.registerUser(), browser = CH
+2022-09-28 00:51:56,641 ERROR [Accruent Tests] - tests.Home.registerUser() failed
+2022-09-28 00:51:56,898 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 00:51:56,902 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_registerUser_9_28_125156AM.png
+2022-09-28 00:52:15,470 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 00:52:15,546 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-28 00:52:16,513 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 00:52:16,531 INFO [Accruent Tests] - tests.Home.verifyRequiredFieldsErrorMessages(), browser = CH
+2022-09-28 00:52:19,989 INFO [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields(), browser = CH
+2022-09-28 00:52:43,905 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-28 00:52:43,933 ERROR [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields() failed
+2022-09-28 00:52:44,133 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 00:52:44,162 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_verifyErrorsForSpacesInRequiredFields_9_28_125243AM.png
+2022-09-28 00:52:44,165 INFO [Accruent Tests] - tests.Home.passwordConfirmationNotMatching(), browser = CH
+2022-09-28 00:52:47,945 INFO [Accruent Tests] - tests.Home.registerUser(), browser = CH
+2022-09-28 00:52:51,642 ERROR [Accruent Tests] - tests.Home.registerUser() failed
+2022-09-28 00:52:51,856 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 00:52:51,863 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_registerUser_9_28_125251AM.png
+2022-09-28 00:53:39,344 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 00:53:39,422 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-28 00:53:40,380 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 00:53:40,397 INFO [Accruent Tests] - tests.Home.verifyRequiredFieldsErrorMessages(), browser = CH
+2022-09-28 00:53:43,836 INFO [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields(), browser = CH
+2022-09-28 00:54:07,742 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-28 00:54:07,771 ERROR [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields() failed
+2022-09-28 00:54:07,996 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 00:54:08,014 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_verifyErrorsForSpacesInRequiredFields_9_28_125407AM.png
+2022-09-28 00:54:08,017 INFO [Accruent Tests] - tests.Home.passwordConfirmationNotMatching(), browser = CH
+2022-09-28 00:54:11,818 INFO [Accruent Tests] - tests.Home.registerUser(), browser = CH
+2022-09-28 00:54:15,506 ERROR [Accruent Tests] - tests.Home.registerUser() failed
+2022-09-28 00:54:15,708 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 00:54:15,712 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_registerUser_9_28_125415AM.png
+2022-09-28 01:10:44,325 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 01:10:44,390 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-28 01:10:45,384 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 01:10:45,398 INFO [Accruent Tests] - tests.Home.verifyRequiredFieldsErrorMessages(), browser = CH
+2022-09-28 01:10:48,848 INFO [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields(), browser = CH
+2022-09-28 01:11:03,216 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-28 01:11:03,239 ERROR [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields() failed
+2022-09-28 01:11:03,459 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 01:11:03,482 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_verifyErrorsForSpacesInRequiredFields_9_28_011103AM.png
+2022-09-28 01:11:03,483 INFO [Accruent Tests] - tests.Home.passwordConfirmationNotMatching(), browser = CH
+2022-09-28 01:11:13,525 ERROR [Accruent Tests] - tests.Home.passwordConfirmationNotMatching() failed
+2022-09-28 01:11:13,717 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 01:11:13,721 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_passwordConfirmationNotMatching_9_28_011113AM.png
+2022-09-28 01:11:13,724 INFO [Accruent Tests] - tests.Home.registerUser(), browser = CH
+2022-09-28 01:11:23,773 ERROR [Accruent Tests] - tests.Home.registerUser() failed
+2022-09-28 01:11:23,948 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 01:11:23,952 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_registerUser_9_28_011123AM.png
+2022-09-28 01:11:40,833 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 01:11:40,905 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-28 01:11:41,872 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 01:11:41,888 INFO [Accruent Tests] - tests.Home.verifyRequiredFieldsErrorMessages(), browser = CH
+2022-09-28 01:11:45,328 INFO [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields(), browser = CH
+2022-09-28 01:12:09,283 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-28 01:12:09,312 ERROR [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields() failed
+2022-09-28 01:12:09,528 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 01:12:09,548 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_verifyErrorsForSpacesInRequiredFields_9_28_011209AM.png
+2022-09-28 01:12:09,549 INFO [Accruent Tests] - tests.Home.passwordConfirmationNotMatching(), browser = CH
+2022-09-28 01:12:13,303 INFO [Accruent Tests] - tests.Home.registerUser(), browser = CH
+2022-09-28 01:12:16,992 ERROR [Accruent Tests] - tests.Home.registerUser() failed
+2022-09-28 01:12:17,209 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 01:12:17,217 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_registerUser_9_28_011216AM.png
+2022-09-28 01:12:34,414 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 01:12:34,495 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-28 01:12:35,494 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 01:12:35,511 INFO [Accruent Tests] - tests.Home.verifyRequiredFieldsErrorMessages(), browser = CH
+2022-09-28 01:12:38,966 INFO [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields(), browser = CH
+2022-09-28 01:13:02,829 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-28 01:13:02,856 ERROR [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields() failed
+2022-09-28 01:13:03,079 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 01:13:03,102 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_verifyErrorsForSpacesInRequiredFields_9_28_011302AM.png
+2022-09-28 01:13:03,105 INFO [Accruent Tests] - tests.Home.passwordConfirmationNotMatching(), browser = CH
+2022-09-28 01:13:06,914 INFO [Accruent Tests] - tests.Home.registerUser(), browser = CH
+2022-09-28 01:13:10,590 ERROR [Accruent Tests] - tests.Home.registerUser() failed
+2022-09-28 01:13:10,786 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 01:13:10,792 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_registerUser_9_28_011310AM.png
+2022-09-28 01:30:08,276 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 01:30:08,345 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-28 01:30:09,305 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 01:30:09,321 INFO [Accruent Tests] - tests.Home.verifyRequiredFieldsErrorMessages(), browser = CH
+2022-09-28 01:30:12,826 INFO [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields(), browser = CH
+2022-09-28 01:30:27,085 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-28 01:30:27,113 ERROR [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields() failed
+2022-09-28 01:30:27,331 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 01:30:27,355 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_verifyErrorsForSpacesInRequiredFields_9_28_013027AM.png
+2022-09-28 01:30:27,357 INFO [Accruent Tests] - tests.Home.passwordConfirmationNotMatching(), browser = CH
+2022-09-28 01:30:37,395 ERROR [Accruent Tests] - tests.Home.passwordConfirmationNotMatching() failed
+2022-09-28 01:30:37,574 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 01:30:37,578 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_passwordConfirmationNotMatching_9_28_013037AM.png
+2022-09-28 01:30:37,578 INFO [Accruent Tests] - tests.Home.registerUser(), browser = CH
+2022-09-28 01:30:47,595 ERROR [Accruent Tests] - tests.Home.registerUser() failed
+2022-09-28 01:30:47,791 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 01:30:47,805 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_registerUser_9_28_013047AM.png
+2022-09-28 01:31:00,473 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 01:31:00,561 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-28 01:31:01,741 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 01:31:01,756 INFO [Accruent Tests] - tests.Home.verifyRequiredFieldsErrorMessages(), browser = CH
+2022-09-28 01:31:05,176 INFO [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields(), browser = CH
+2022-09-28 01:31:29,089 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-28 01:31:29,120 ERROR [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields() failed
+2022-09-28 01:31:29,329 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 01:31:29,344 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_verifyErrorsForSpacesInRequiredFields_9_28_013129AM.png
+2022-09-28 01:31:29,346 INFO [Accruent Tests] - tests.Home.passwordConfirmationNotMatching(), browser = CH
+2022-09-28 01:31:33,151 INFO [Accruent Tests] - tests.Home.registerUser(), browser = CH
+2022-09-28 01:31:36,840 ERROR [Accruent Tests] - tests.Home.registerUser() failed
+2022-09-28 01:31:37,029 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 01:31:37,038 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_registerUser_9_28_013136AM.png
+2022-09-28 01:36:41,464 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-28 01:36:41,482 ERROR [Accruent Tests] - tests.Home.navigateToRegister() failed
+2022-09-28 01:37:41,385 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-28 01:37:46,238 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 01:37:46,258 INFO [Accruent Tests] - tests.Home.verifyHomepageIsLoaded(), browser = CH
+2022-09-28 01:37:49,030 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 01:42:27,871 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-28 01:42:32,361 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 01:42:32,383 INFO [Accruent Tests] - tests.Home.verifyHomepageIsLoaded(), browser = CH
+2022-09-28 01:42:35,155 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 01:54:20,086 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-28 01:54:24,790 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 01:54:24,812 INFO [Accruent Tests] - tests.Home.verifyHomepageIsLoaded(), browser = CH
+2022-09-28 01:54:28,161 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 01:55:28,670 INFO [Accruent Tests] - tests.Home.verifyHomepageIsLoaded(), browser = CH
+2022-09-28 01:55:32,707 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 01:55:32,751 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-28 01:55:36,183 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 01:55:53,380 INFO [Accruent Tests] - tests.Home.verifyHomepageIsLoaded(), browser = CH
+2022-09-28 01:55:57,051 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 01:55:57,101 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-28 01:56:00,778 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 01:57:35,905 INFO [Accruent Tests] - tests.Home.verifyHomepageIsLoaded(), browser = CH
+2022-09-28 01:57:40,353 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 01:57:40,474 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-28 01:57:44,083 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 01:58:25,399 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-28 01:58:29,834 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 01:58:29,922 INFO [Accruent Tests] - tests.Home.verifyHomepageIsLoaded(), browser = CH
+2022-09-28 01:58:32,669 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 01:59:23,586 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-28 01:59:29,225 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 01:59:29,312 INFO [Accruent Tests] - tests.Home.verifyHomepageIsLoaded(), browser = CH
+2022-09-28 01:59:32,125 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 02:01:30,267 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-28 02:01:35,397 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:01:35,478 INFO [Accruent Tests] - tests.Home.passwordConfirmationNotMatching(), browser = CH
+2022-09-28 02:01:39,585 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:01:43,379 INFO [Accruent Tests] - tests.Home.registerUser(), browser = CH
+2022-09-28 02:01:48,042 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:01:51,743 ERROR [Accruent Tests] - tests.Home.registerUser() failed
+2022-09-28 02:01:51,931 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 02:01:51,949 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_registerUser_9_28_020151AM.png
+2022-09-28 02:01:52,016 INFO [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields(), browser = CH
+2022-09-28 02:01:55,549 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:02:09,675 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-28 02:02:09,678 ERROR [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields() failed
+2022-09-28 02:02:09,873 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 02:02:09,880 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_verifyErrorsForSpacesInRequiredFields_9_28_020209AM.png
+2022-09-28 02:02:09,954 INFO [Accruent Tests] - tests.Home.verifyHomepageIsLoaded(), browser = CH
+2022-09-28 02:02:13,225 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 02:02:13,315 INFO [Accruent Tests] - tests.Home.verifyRequiredFieldsErrorMessages(), browser = CH
+2022-09-28 02:02:16,592 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:04:52,750 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-28 02:04:57,706 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:04:57,796 INFO [Accruent Tests] - tests.Home.passwordConfirmationNotMatching(), browser = CH
+2022-09-28 02:05:01,359 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:05:05,141 INFO [Accruent Tests] - tests.Home.registerUser(), browser = CH
+2022-09-28 02:05:10,457 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:05:14,147 ERROR [Accruent Tests] - tests.Home.registerUser() failed
+2022-09-28 02:05:14,341 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 02:05:14,355 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_registerUser_9_28_020514AM.png
+2022-09-28 02:05:14,423 INFO [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields(), browser = CH
+2022-09-28 02:05:17,677 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:05:41,275 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-28 02:05:41,278 ERROR [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields() failed
+2022-09-28 02:05:41,478 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 02:05:41,486 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_verifyErrorsForSpacesInRequiredFields_9_28_020541AM.png
+2022-09-28 02:05:41,550 INFO [Accruent Tests] - tests.Home.verifyHomepageIsLoaded(), browser = CH
+2022-09-28 02:05:44,347 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 02:05:44,435 INFO [Accruent Tests] - tests.Home.verifyRequiredFieldsErrorMessages(), browser = CH
+2022-09-28 02:05:47,760 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:08:14,302 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-28 02:08:19,771 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:08:19,868 INFO [Accruent Tests] - tests.Home.passwordConfirmationNotMatching(), browser = CH
+2022-09-28 02:08:24,203 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:08:27,959 INFO [Accruent Tests] - tests.Home.registerUser(), browser = CH
+2022-09-28 02:08:31,389 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:08:35,059 ERROR [Accruent Tests] - tests.Home.registerUser() failed
+2022-09-28 02:08:35,252 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 02:08:35,267 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_registerUser_9_28_020835AM.png
+2022-09-28 02:08:35,341 INFO [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields(), browser = CH
+2022-09-28 02:08:38,929 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:09:02,530 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-28 02:09:02,532 ERROR [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields() failed
+2022-09-28 02:09:02,711 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 02:09:02,714 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_verifyErrorsForSpacesInRequiredFields_9_28_020902AM.png
+2022-09-28 02:09:02,787 INFO [Accruent Tests] - tests.Home.verifyHomepageIsLoaded(), browser = CH
+2022-09-28 02:09:05,585 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 02:09:05,659 INFO [Accruent Tests] - tests.Home.verifyRequiredFieldsErrorMessages(), browser = CH
+2022-09-28 02:09:09,145 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:09:42,697 INFO [Accruent Tests] - tests.Home.navigateToRegister(), browser = CH
+2022-09-28 02:09:47,426 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:09:47,517 INFO [Accruent Tests] - tests.Home.passwordConfirmationNotMatching(), browser = CH
+2022-09-28 02:09:51,135 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:09:54,936 INFO [Accruent Tests] - tests.Home.registerUser(), browser = CH
+2022-09-28 02:09:58,728 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:10:02,425 ERROR [Accruent Tests] - tests.Home.registerUser() failed
+2022-09-28 02:10:02,611 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 02:10:02,625 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_registerUser_9_28_021002AM.png
+2022-09-28 02:10:02,848 INFO [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields(), browser = CH
+2022-09-28 02:10:06,413 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:10:29,963 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-28 02:10:29,965 ERROR [Accruent Tests] - tests.Home.verifyErrorsForSpacesInRequiredFields() failed
+2022-09-28 02:10:30,148 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 02:10:30,156 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Home_verifyErrorsForSpacesInRequiredFields_9_28_021029AM.png
+2022-09-28 02:10:30,231 INFO [Accruent Tests] - tests.Home.verifyHomepageIsLoaded(), browser = CH
+2022-09-28 02:10:33,119 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 02:10:33,226 INFO [Accruent Tests] - tests.Home.verifyRequiredFieldsErrorMessages(), browser = CH
+2022-09-28 02:10:37,604 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:49:12,282 INFO [Accruent Tests] - tests.Register.navigateToRegister(), browser = CH
+2022-09-28 02:49:16,943 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:49:17,035 INFO [Accruent Tests] - tests.Register.passwordConfirmationNotMatching(), browser = CH
+2022-09-28 02:49:21,276 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:49:25,154 INFO [Accruent Tests] - tests.Register.registerUser(), browser = CH
+2022-09-28 02:49:28,760 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:49:32,501 ERROR [Accruent Tests] - tests.Register.registerUser() failed
+2022-09-28 02:49:32,695 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 02:49:32,710 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Register_registerUser_9_28_024932AM.png
+2022-09-28 02:49:32,790 INFO [Accruent Tests] - tests.Register.verifyErrorsForSpacesInRequiredFields(), browser = CH
+2022-09-28 02:49:36,279 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:49:59,849 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-28 02:49:59,851 ERROR [Accruent Tests] - tests.Register.verifyErrorsForSpacesInRequiredFields() failed
+2022-09-28 02:50:00,043 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 02:50:00,049 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Register_verifyErrorsForSpacesInRequiredFields_9_28_024959AM.png
+2022-09-28 02:50:00,113 INFO [Accruent Tests] - tests.Register.verifyHomepageIsLoaded(), browser = CH
+2022-09-28 02:50:03,567 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 02:50:03,651 INFO [Accruent Tests] - tests.Register.verifyRequiredFieldsErrorMessages(), browser = CH
+2022-09-28 02:50:06,987 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:52:34,639 INFO [Accruent Tests] - tests.Register.navigateToRegister(), browser = CH
+2022-09-28 02:52:39,831 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:52:39,915 INFO [Accruent Tests] - tests.Register.passwordConfirmationNotMatching(), browser = CH
+2022-09-28 02:52:43,531 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:52:47,225 INFO [Accruent Tests] - tests.Register.registerUser(), browser = CH
+2022-09-28 02:52:50,853 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:52:55,041 ERROR [Accruent Tests] - tests.Register.registerUser() failed
+2022-09-28 02:52:55,235 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 02:52:55,247 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Register_registerUser_9_28_025255AM.png
+2022-09-28 02:52:55,306 INFO [Accruent Tests] - tests.Register.verifyErrorsForSpacesInRequiredFields(), browser = CH
+2022-09-28 02:52:58,728 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 02:53:22,321 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-28 02:53:22,323 ERROR [Accruent Tests] - tests.Register.verifyErrorsForSpacesInRequiredFields() failed
+2022-09-28 02:53:22,503 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 02:53:22,512 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Register_verifyErrorsForSpacesInRequiredFields_9_28_025322AM.png
+2022-09-28 02:53:22,585 INFO [Accruent Tests] - tests.Register.verifyHomepageIsLoaded(), browser = CH
+2022-09-28 02:53:25,375 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 02:53:25,446 INFO [Accruent Tests] - tests.Register.verifyRequiredFieldsErrorMessages(), browser = CH
+2022-09-28 02:53:28,767 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:01:02,877 INFO [Accruent Tests] - tests.Register.navigateToRegister(), browser = CH
+2022-09-28 03:01:08,351 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:01:08,451 INFO [Accruent Tests] - tests.Register.passwordConfirmationNotMatching(), browser = CH
+2022-09-28 03:01:11,873 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:01:13,661 INFO [Accruent Tests] - tests.Register.registerUser(), browser = CH
+2022-09-28 03:01:17,283 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:01:21,462 INFO [Accruent Tests] - Welcome dff48f
+2022-09-28 03:01:21,497 ERROR [Accruent Tests] - tests.Register.registerUser() failed
+2022-09-28 03:01:21,677 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 03:01:21,689 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Register_registerUser_9_28_030121AM.png
+2022-09-28 03:01:21,765 INFO [Accruent Tests] - tests.Register.verifyErrorsForSpacesInRequiredFields(), browser = CH
+2022-09-28 03:01:25,228 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:01:37,286 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-28 03:01:37,288 ERROR [Accruent Tests] - tests.Register.verifyErrorsForSpacesInRequiredFields() failed
+2022-09-28 03:01:37,491 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 03:01:37,494 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Register_verifyErrorsForSpacesInRequiredFields_9_28_030137AM.png
+2022-09-28 03:01:37,553 INFO [Accruent Tests] - tests.Register.verifyHomepageIsLoaded(), browser = CH
+2022-09-28 03:01:40,643 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 03:01:40,712 INFO [Accruent Tests] - tests.Register.verifyRequiredFieldsErrorMessages(), browser = CH
+2022-09-28 03:01:46,816 ERROR [Accruent Tests] - tests.Register.verifyRequiredFieldsErrorMessages() failed
+2022-09-28 03:04:26,263 INFO [Accruent Tests] - tests.Register.navigateToRegister(), browser = CH
+2022-09-28 03:04:31,121 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:04:31,221 INFO [Accruent Tests] - tests.Register.passwordConfirmationNotMatching(), browser = CH
+2022-09-28 03:04:35,232 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:04:36,971 INFO [Accruent Tests] - tests.Register.registerUser(), browser = CH
+2022-09-28 03:04:36,978 ERROR [Accruent Tests] - tests.Register.registerUser() failed
+2022-09-28 03:05:38,190 INFO [Accruent Tests] - tests.Register.navigateToRegister(), browser = CH
+2022-09-28 03:05:42,772 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:05:42,848 INFO [Accruent Tests] - tests.Register.passwordConfirmationNotMatching(), browser = CH
+2022-09-28 03:05:46,218 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:05:47,931 INFO [Accruent Tests] - tests.Register.registerUser(), browser = CH
+2022-09-28 03:05:52,056 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:05:56,197 INFO [Accruent Tests] - REGISERRRRRRRR >>>Welcome 9560f7
+2022-09-28 03:05:56,229 ERROR [Accruent Tests] - tests.Register.registerUser() failed
+2022-09-28 03:05:56,435 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 03:05:56,448 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Register_registerUser_9_28_030556AM.png
+2022-09-28 03:05:56,516 INFO [Accruent Tests] - tests.Register.verifyErrorsForSpacesInRequiredFields(), browser = CH
+2022-09-28 03:06:00,138 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:06:21,804 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-28 03:06:21,806 ERROR [Accruent Tests] - tests.Register.verifyErrorsForSpacesInRequiredFields() failed
+2022-09-28 03:06:22,080 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 03:06:22,085 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Register_verifyErrorsForSpacesInRequiredFields_9_28_030621AM.png
+2022-09-28 03:06:22,154 INFO [Accruent Tests] - tests.Register.verifyHomepageIsLoaded(), browser = CH
+2022-09-28 03:06:25,669 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 03:06:25,760 INFO [Accruent Tests] - tests.Register.verifyRequiredFieldsErrorMessages(), browser = CH
+2022-09-28 03:06:29,121 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:09:56,412 INFO [Accruent Tests] - tests.Register.navigateToRegister(), browser = CH
+2022-09-28 03:10:01,747 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:10:01,842 INFO [Accruent Tests] - tests.Register.passwordConfirmationNotMatching(), browser = CH
+2022-09-28 03:10:05,916 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:10:07,580 INFO [Accruent Tests] - tests.Register.registerUser(), browser = CH
+2022-09-28 03:10:11,829 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:10:16,009 INFO [Accruent Tests] - REGISERRRRRRRR >>>Welcome 29d168
+2022-09-28 03:10:16,087 INFO [Accruent Tests] - tests.Register.verifyErrorsForSpacesInRequiredFields(), browser = CH
+2022-09-28 03:10:19,479 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:10:41,063 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-28 03:10:41,081 ERROR [Accruent Tests] - tests.Register.verifyErrorsForSpacesInRequiredFields() failed
+2022-09-28 03:10:41,298 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 03:10:41,318 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Register_verifyErrorsForSpacesInRequiredFields_9_28_031041AM.png
+2022-09-28 03:10:41,391 INFO [Accruent Tests] - tests.Register.verifyHomepageIsLoaded(), browser = CH
+2022-09-28 03:10:44,364 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 03:10:44,447 INFO [Accruent Tests] - tests.Register.verifyRequiredFieldsErrorMessages(), browser = CH
+2022-09-28 03:10:48,135 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:11:48,805 INFO [Accruent Tests] - tests.Register.navigateToRegister(), browser = CH
+2022-09-28 03:11:54,167 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:11:54,257 INFO [Accruent Tests] - tests.Register.passwordConfirmationNotMatching(), browser = CH
+2022-09-28 03:11:57,647 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:11:59,295 INFO [Accruent Tests] - tests.Register.registerUser(), browser = CH
+2022-09-28 03:12:03,237 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:12:07,356 INFO [Accruent Tests] - REGISERRRRRRRR >>>Welcome 274826
+2022-09-28 03:12:07,431 INFO [Accruent Tests] - tests.Register.verifyErrorsForSpacesInRequiredFields(), browser = CH
+2022-09-28 03:12:11,162 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:12:32,749 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-28 03:12:32,775 ERROR [Accruent Tests] - tests.Register.verifyErrorsForSpacesInRequiredFields() failed
+2022-09-28 03:12:33,018 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 03:12:33,033 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Register_verifyErrorsForSpacesInRequiredFields_9_28_031232AM.png
+2022-09-28 03:12:33,128 INFO [Accruent Tests] - tests.Register.verifyHomepageIsLoaded(), browser = CH
+2022-09-28 03:12:36,463 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 03:12:36,544 INFO [Accruent Tests] - tests.Register.verifyRequiredFieldsErrorMessages(), browser = CH
+2022-09-28 03:12:40,480 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:14:22,491 INFO [Accruent Tests] - tests.Register.navigateToRegister(), browser = CH
+2022-09-28 03:14:27,743 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:14:27,834 INFO [Accruent Tests] - tests.Register.passwordConfirmationNotMatching(), browser = CH
+2022-09-28 03:14:31,823 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:14:33,928 INFO [Accruent Tests] - tests.Register.registerUser(), browser = CH
+2022-09-28 03:14:38,231 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:14:41,224 INFO [Accruent Tests] - tests.Register.verifyErrorsForSpacesInRequiredFields(), browser = CH
+2022-09-28 03:14:44,680 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:15:06,272 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-28 03:15:06,292 ERROR [Accruent Tests] - tests.Register.verifyErrorsForSpacesInRequiredFields() failed
+2022-09-28 03:15:06,519 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 03:15:06,541 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Register_verifyErrorsForSpacesInRequiredFields_9_28_031506AM.png
+2022-09-28 03:15:06,602 INFO [Accruent Tests] - tests.Register.verifyHomepageIsLoaded(), browser = CH
+2022-09-28 03:15:09,579 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 03:15:09,660 INFO [Accruent Tests] - tests.Register.verifyRequiredFieldsErrorMessages(), browser = CH
+2022-09-28 03:15:12,920 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:25:54,518 INFO [Accruent Tests] - tests.Register.navigateToRegister(), browser = CH
+2022-09-28 03:25:59,174 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:25:59,277 INFO [Accruent Tests] - tests.Register.passwordConfirmationNotMatching(), browser = CH
+2022-09-28 03:26:02,608 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:26:04,275 INFO [Accruent Tests] - tests.Register.registerUser(), browser = CH
+2022-09-28 03:26:07,656 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:26:09,845 INFO [Accruent Tests] - tests.Register.verifyErrorsForSpacesInRequiredFields(), browser = CH
+2022-09-28 03:26:13,326 INFO [Accruent Tests] - Register page has loaded.
+2022-09-28 03:26:34,933 ERROR [Accruent Tests] - Error messages are missing!
+2022-09-28 03:26:34,948 ERROR [Accruent Tests] - tests.Register.verifyErrorsForSpacesInRequiredFields() failed
+2022-09-28 03:26:35,192 INFO [Accruent Tests] - Thread id that failed = 1
+2022-09-28 03:26:35,216 INFO [Accruent Tests] - Screenshot saved as: C:\TestProject\appTest//target//screenshots/Register_verifyErrorsForSpacesInRequiredFields_9_28_032634AM.png
+2022-09-28 03:26:35,291 INFO [Accruent Tests] - tests.Register.verifyHomepageIsLoaded(), browser = CH
+2022-09-28 03:26:38,441 INFO [Accruent Tests] - Homepage has loaded.
+2022-09-28 03:26:38,556 INFO [Accruent Tests] - tests.Register.verifyRequiredFieldsErrorMessages(), browser = CH
+2022-09-28 03:26:42,043 INFO [Accruent Tests] - Register page has loaded.

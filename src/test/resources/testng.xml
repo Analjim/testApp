@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<!-- <suite name="Grid suite" parallel="tests" thread-count="1"> -->
+<suite name="Grid suite" thread-count="1">
+    <test name="Test_Grid">
+        <classes>
+            <class name="tests.Register"/>
+        </classes>
+    </test>
+</suite>

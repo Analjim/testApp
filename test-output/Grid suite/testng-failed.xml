@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="tests" name="Failed suite [Grid suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="1" parallel="tests" name="Test_Grid(failed)">
+    <classes>
+      <class name="tests.Home">
+        <methods>
+          <include name="suiteBefore"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="registerSuccessfully"/>
+          <include name="verifyHomepageIsLoaded"/>
+          <include name="TestSuiteIsFinished"/>
+        </methods>
+      </class> <!-- tests.Home -->
+    </classes>
+  </test> <!-- Test_Grid(failed) -->
+</suite> <!-- Failed suite [Grid suite] -->

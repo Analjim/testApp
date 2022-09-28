@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="5" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-28T03:25:54 CEST" name="Grid suite" finished-at="2022-09-28T03:26:43 CEST" duration-ms="48867">
+    <groups>
+    </groups>
+    <test started-at="2022-09-28T03:25:54 CEST" name="Test_Grid" finished-at="2022-09-28T03:26:43 CEST" duration-ms="48867">
+      <class name="tests.Register">
+        <test-method is-config="true" signature="suiteBefore()[pri:0, instance:tests.Register@67a20f67]" started-at="2022-09-28T03:25:54 CEST" name="suiteBefore" finished-at="2022-09-28T03:25:54 CEST" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteBefore -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:tests.Register@67a20f67]" started-at="2022-09-28T03:25:54 CEST" name="setUp" finished-at="2022-09-28T03:25:54 CEST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.Register.navigateToRegister()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="navigateToRegister()[pri:0, instance:tests.Register@67a20f67]" started-at="2022-09-28T03:25:54 CEST" name="navigateToRegister" finished-at="2022-09-28T03:25:59 CEST" duration-ms="4668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToRegister -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.Register@67a20f67]" started-at="2022-09-28T03:25:59 CEST" name="tearDown" finished-at="2022-09-28T03:25:59 CEST" duration-ms="86" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=navigateToRegister status=SUCCESS method=Register.navigateToRegister()[pri:0, instance:tests.Register@67a20f67] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:tests.Register@67a20f67]" started-at="2022-09-28T03:25:59 CEST" name="setUp" finished-at="2022-09-28T03:25:59 CEST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.Register.passwordConfirmationNotMatching()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="passwordConfirmationNotMatching()[pri:0, instance:tests.Register@67a20f67]" started-at="2022-09-28T03:25:59 CEST" name="passwordConfirmationNotMatching" finished-at="2022-09-28T03:26:04 CEST" duration-ms="4927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passwordConfirmationNotMatching -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.Register@67a20f67]" started-at="2022-09-28T03:26:04 CEST" name="tearDown" finished-at="2022-09-28T03:26:04 CEST" duration-ms="69" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=passwordConfirmationNotMatching status=SUCCESS method=Register.passwordConfirmationNotMatching()[pri:0, instance:tests.Register@67a20f67] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="registerUser()[pri:0, instance:tests.Register@67a20f67]" started-at="2022-09-28T03:26:04 CEST" name="registerUser" finished-at="2022-09-28T03:26:09 CEST" duration-ms="5508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUser -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:tests.Register@67a20f67]" started-at="2022-09-28T03:26:04 CEST" name="setUp" finished-at="2022-09-28T03:26:04 CEST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.Register.registerUser()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.Register@67a20f67]" started-at="2022-09-28T03:26:09 CEST" name="tearDown" finished-at="2022-09-28T03:26:09 CEST" duration-ms="59" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=registerUser status=SUCCESS method=Register.registerUser()[pri:0, instance:tests.Register@67a20f67] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:tests.Register@67a20f67]" started-at="2022-09-28T03:26:09 CEST" name="setUp" finished-at="2022-09-28T03:26:09 CEST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.Register.verifyErrorsForSpacesInRequiredFields()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyErrorsForSpacesInRequiredFields()[pri:0, instance:tests.Register@67a20f67]" started-at="2022-09-28T03:26:09 CEST" name="verifyErrorsForSpacesInRequiredFields" finished-at="2022-09-28T03:26:34 CEST" duration-ms="25095" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1413)
+at org.testng.Assert.assertTrue(Assert.java:56)
+at org.testng.Assert.assertTrue(Assert.java:66)
+at tests.Register.verifyErrorsForSpacesInRequiredFields(Register.java:57)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyErrorsForSpacesInRequiredFields -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.Register@67a20f67]" started-at="2022-09-28T03:26:34 CEST" name="tearDown" finished-at="2022-09-28T03:26:35 CEST" duration-ms="342" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyErrorsForSpacesInRequiredFields status=FAILURE method=Register.verifyErrorsForSpacesInRequiredFields()[pri:0, instance:tests.Register@67a20f67] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:tests.Register@67a20f67]" started-at="2022-09-28T03:26:35 CEST" name="setUp" finished-at="2022-09-28T03:26:35 CEST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.Register.verifyHomepageIsLoaded()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyHomepageIsLoaded()[pri:0, instance:tests.Register@67a20f67]" started-at="2022-09-28T03:26:35 CEST" name="verifyHomepageIsLoaded" finished-at="2022-09-28T03:26:38 CEST" duration-ms="3178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageIsLoaded -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.Register@67a20f67]" started-at="2022-09-28T03:26:38 CEST" name="tearDown" finished-at="2022-09-28T03:26:38 CEST" duration-ms="85" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyHomepageIsLoaded status=SUCCESS method=Register.verifyHomepageIsLoaded()[pri:0, instance:tests.Register@67a20f67] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:tests.Register@67a20f67]" started-at="2022-09-28T03:26:38 CEST" name="setUp" finished-at="2022-09-28T03:26:38 CEST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.Register.verifyRequiredFieldsErrorMessages()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyRequiredFieldsErrorMessages()[pri:0, instance:tests.Register@67a20f67]" started-at="2022-09-28T03:26:38 CEST" name="verifyRequiredFieldsErrorMessages" finished-at="2022-09-28T03:26:43 CEST" duration-ms="4733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRequiredFieldsErrorMessages -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.Register@67a20f67]" started-at="2022-09-28T03:26:43 CEST" name="tearDown" finished-at="2022-09-28T03:26:43 CEST" duration-ms="66" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyRequiredFieldsErrorMessages status=SUCCESS method=Register.verifyRequiredFieldsErrorMessages()[pri:0, instance:tests.Register@67a20f67] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="TestSuiteIsFinished()[pri:0, instance:tests.Register@67a20f67]" started-at="2022-09-28T03:26:43 CEST" name="TestSuiteIsFinished" finished-at="2022-09-28T03:26:43 CEST" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSuiteIsFinished -->
+      </class> <!-- tests.Register -->
+    </test> <!-- Test_Grid -->
+  </suite> <!-- Grid suite -->
+</testng-results>
